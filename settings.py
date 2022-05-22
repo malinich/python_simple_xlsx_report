@@ -1,0 +1,14 @@
+SERVER_HOST = "localhost"
+SERVER_PORT = 8988
+
+DB_USER = "intranet"
+DB_PASSWORD = "password"
+DB_PORT = "55435"
+DB_HOST = "127.0.0.1"
+DB_NAME = "sample-dev"
+
+POOL_SIZE = 200
+MAX_OVERFLOW = 100
+POOL_RECYCLE = 3600
+POOL_TIMEOUT = 100
+
